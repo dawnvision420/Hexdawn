@@ -1,2 +1,2 @@
 # Hexdawn
-this is just an an example 
+this is just an example 
